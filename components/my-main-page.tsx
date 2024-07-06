@@ -48,7 +48,7 @@ export function MyMainPage() {
               
               <p className="text-xs text-muted-foreground">
                 Sign up to unlock exclusive features and stay ahead of the curve.{" "}
-                <Link href="#" className="underline underline-offset-2" prefetch={false}>
+                <Link href="/products" className="underline underline-offset-2" prefetch={false}>
                   Terms &amp; Conditions
                 </Link>
               </p>
