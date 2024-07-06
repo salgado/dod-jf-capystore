@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Outdoor Gear",
+      "description": "Explore the great outdoors",
+      "price": 99.99,
+      "imagePath": "/cap1.png"
+    },
+    {
+      "name": "Kitchen Essentials",
+      "description": "Upgrade your culinary experience",
+      "price": 49.99,
+      "imagePath": "/cap2.png"
+    },
+    {
+      "name": "Home Decor",
+      "description": "Elevate your living space",
+      "price": 79.99,
+      "imagePath": "/cap3.png"
+    },
+    {
+      "name": "Tech Accessories",
+      "description": "Enhance your digital life",
+      "price": 29.99,
+      "imagePath": "/cap4.png"
+    },
+    {
+      "name": "Apparel",
+      "description": "Stylish clothing for every occasion",
+      "price": 59.99,
+      "imagePath": "/cap5.png"
+    },
+    {
+      "name": "Beauty & Personal Care",
+      "description": "Pamper yourself with our products",
+      "price": 39.99,
+      "imagePath": "/cap6.png"
+    }
+  ]
+  
