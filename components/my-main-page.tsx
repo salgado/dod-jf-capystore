@@ -41,18 +41,25 @@ export function MyMainPage() {
               Exclusivo para a Galera do DevOpsDays Juiz de Fora 2024
               </p>
             </div>
+
+            
+              
+
             <div className="w-full max-w-sm space-y-2">
               
                 <Input type="email" placeholder="Enter your email" className="max-w-lg flex-1" />
-                <Button type="submit">Get Started</Button>
-              
-              <p className="text-xs text-muted-foreground">
-                Sign up to unlock exclusive features and stay ahead of the curve.{" "}
-                <Link href="/products" className="underline underline-offset-2" prefetch={false}>
-                  Terms &amp; Conditions
-                </Link>
-              </p>
+                
             </div>
+
+            <div className="w-full max-w-sm space-y-2">
+                <Link href="/products" className="w-full" prefetch={false}>
+                  <Button type="submit" className="bg-primary text-primary-foreground hover:bg-primary/90">
+                    Veja as ofertas!
+                  </Button>
+                </Link>
+              </div>
+
+
           </div>
           <img
             src="/capystore.png"

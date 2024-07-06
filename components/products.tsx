@@ -51,7 +51,7 @@ export function Products() {
       <section className="grid grid-cols-1 gap-6 p-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 md:p-6">
         {products.map(product => (
           <div key={product.nome} className="relative overflow-hidden rounded-lg group">
-            <Link href="#" className="absolute inset-0 z-10" prefetch={false}>
+            <Link href="/details" className="absolute inset-0 z-10" prefetch={false}>
               <span className="sr-only">View</span>
             </Link>
             <img
