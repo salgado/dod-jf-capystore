@@ -23,8 +23,16 @@ import Link from "next/link"
 import { useEffect, useState } from "react"
 import { Button } from "@/components/ui/button"
 
+// Definindo a estrutura dos produtos
+interface Product {
+  nome: string;
+  descricao: string;
+  preco: number;
+  imagem: string;
+}
+
 export function Products() {
-  const [products, setProducts] = useState(null)
+  const [products, setProducts] = useState<Product[]>([])
 
   useEffect(() => {
     // Substitua a URL pelo caminho do seu arquivo JSON
@@ -33,7 +41,7 @@ export function Products() {
       .then(data => setProducts(data))
   }, [])
 
-  if (!products) {
+  if (products.length === 0) {
     return <p>Loading...</p>
   }
 
