@@ -1,39 +1,39 @@
-[
+  [
     {
-      "name": "Outdoor Gear",
-      "description": "Explore the great outdoors",
-      "price": 99.99,
-      "imagePath": "/cap1.png"
+      "nome": "Spa de Capivara",
+      "descricao": "Aproveite massagens relaxantes, pedicures e manicures no Spa de Capivara.",
+      "preco": 99.99,
+      "imagem": "/cap1.png"
     },
     {
-      "name": "Kitchen Essentials",
-      "description": "Upgrade your culinary experience",
-      "price": 49.99,
-      "imagePath": "/cap2.png"
+      "nome": "Capivaras Princesas",
+      "descricao": "Delicie-se com nossa coleção de utensílios de cozinha com tema de princesas.",
+      "preco": 49.99,
+      "imagem": "/cap2.png"
     },
     {
-      "name": "Home Decor",
-      "description": "Elevate your living space",
-      "price": 79.99,
-      "imagePath": "/cap3.png"
+      "nome": "Aventura Espacial de Capivara",
+      "descricao": "Decore sua casa com nossa decoração temática de capivara no espaço.",
+      "preco": 79.99,
+      "imagem": "/cap3.png"
     },
     {
-      "name": "Tech Accessories",
-      "description": "Enhance your digital life",
-      "price": 29.99,
-      "imagePath": "/cap4.png"
+      "nome": "Acessórios Tecnológicos de Capivara",
+      "descricao": "Atualize sua vida digital com nossos acessórios tecnológicos exclusivos com capivaras.",
+      "preco": 29.99,
+      "imagem": "/cap4.png"
     },
     {
-      "name": "Apparel",
-      "description": "Stylish clothing for every occasion",
-      "price": 59.99,
-      "imagePath": "/cap5.png"
+      "nome": "Arte de Capivara",
+      "descricao": "Arte vibrante e colorida apresentando capivaras.",
+      "preco": 39.99,
+      "imagem": "/cap5.png"
     },
     {
-      "name": "Beauty & Personal Care",
-      "description": "Pamper yourself with our products",
-      "price": 39.99,
-      "imagePath": "/cap6.png"
+      "nome": "Meditacao da Capivara",
+      "descricao": "Arte surreal de uma capivara com um relógio nas nuvens.",
+      "preco": 79.99,
+      "imagem": "/cap6.png"
     }
   ]
   
