@@ -50,7 +50,7 @@ export function ProductCapyvaraDetail() {
                 Aprenda os ensinamentos milenar da meditacao capivara
                 </p>
                 <p className="max-w-[600px] text-secondary-foreground md:text-xl">
-                $79.99
+                $99.99
                 </p>
                 
               </div>
