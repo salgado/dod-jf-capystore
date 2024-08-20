@@ -72,7 +72,7 @@ export function MyMainPage() {
       </div>
 
         <footer className="text-center py-4 bg-gray-100 text-sm text-gray-600">
-        Made for the DevRel Team
+        Made for the Community Team
       </footer>
       
     </section>
