@@ -70,6 +70,14 @@ export function MyMainPage() {
             />
         </div>
       </div>
+
+        <footer className="text-center py-4 bg-gray-100 text-sm text-gray-600">
+        Made for the Community Team
+      </footer>
+      
     </section>
+
+    
+
   )
 }
