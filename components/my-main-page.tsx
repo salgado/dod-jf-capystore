@@ -38,7 +38,7 @@ export function MyMainPage() {
               Bem-vindos à Capivara Store!
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-              Exclusivo para a Galera do DevOpsDays Juiz de Fora 2024
+              Exclusivo para a Galera do TDC Summit AI Recife 2024
               </p>
             </div>
 
