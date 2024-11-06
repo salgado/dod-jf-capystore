@@ -35,7 +35,7 @@ export function MyMainPage() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-              Bem-vindos à Capivara Store!
+              Bem-vindos à Galo da Madrugada Store!
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
               Exclusivo para a Galera do TDC Summit AI Recife 2024
@@ -62,7 +62,7 @@ export function MyMainPage() {
 
           </div>
           <img
-            src="/capystore.png"
+            src="/galo-capa.png"
             width="550"
             height="310"
             alt="Hero"
