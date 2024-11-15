@@ -35,10 +35,10 @@ export function MyMainPage() {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-              Bem-vindos à Galo da Madrugada Store!
+              Bem-vindos à Ilha da Magia
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-              Exclusivo para a Galera do TDC Summit AI Recife 2024
+              Exclusivo para a Galera do DevOpsDays Florianópolis 2024 
               </p>
             </div>
 
@@ -69,7 +69,7 @@ export function MyMainPage() {
       </div>
 
         <footer className="text-center py-4 bg-gray-100 text-sm text-gray-600">
-        Made for the DevRel Team
+        Made by the DevRel Team
       </footer>
       
     </section>
