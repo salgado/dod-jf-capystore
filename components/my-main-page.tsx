@@ -59,7 +59,7 @@ export function MyMainPage() {
 
           </div>
           <img
-            src="/galo-capa.png"
+            src="/ilha-capa.png"
             width="550"
             height="310"
             alt="Hero"
