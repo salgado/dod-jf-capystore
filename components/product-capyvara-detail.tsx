@@ -50,7 +50,7 @@ export function ProductCapyvaraDetail() {
                 Aventure-se em um rapel emocionante nas encostas da Costa da Lagoa, com vista panorâmica para a Lagoa da Conceição. Inclui equipamentos e instrutor.
                 </p>
                 <p className="max-w-[600px] text-secondary-foreground md:text-xl">
-                $199.99
+                $1990.99
                 </p>
                 
               </div>
