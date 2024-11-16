@@ -1,39 +1,34 @@
-  [
-    {
-      "nome": "Spa de Capivara",
-      "descricao": "Aproveite massagens relaxantes, pedicures e manicures no Spa de Capivara.",
-      "preco": 99.99,
-      "imagem": "/cap1.png"
-    },
-    {
-      "nome": "Capivaras Princesas",
-      "descricao": "Delicie-se com nossa coleção de utensílios de cozinha com tema de princesas.",
-      "preco": 49.99,
-      "imagem": "/cap2.png"
-    },
-    {
-      "nome": "Aventura Espacial de Capivara",
-      "descricao": "Decore sua casa com nossa decoração temática de capivara no espaço.",
-      "preco": 79.99,
-      "imagem": "/cap3.png"
-    },
-    {
-      "nome": "Acessórios Tecnológicos de Capivara",
-      "descricao": "Atualize sua vida digital com nossos acessórios tecnológicos exclusivos com capivaras.",
-      "preco": 29.99,
-      "imagem": "/cap4.png"
-    },
-    {
-      "nome": "Arte de Capivara",
-      "descricao": "Arte vibrante e colorida apresentando capivaras.",
-      "preco": 39.99,
-      "imagem": "/cap5.png"
-    },
-    {
-      "nome": "Meditacao da Capivara",
-      "descricao": "Aprenda os ensinamentos milenar da meditacao capivara.",
-      "preco": 79.99,
-      "imagem": "/cap6.png"
-    }
-  ]
-  
+[
+  {
+    "nome": "Rapel na Costa da Lagoa",
+    "descricao": "Aventure-se em um rapel emocionante nas encostas da Costa da Lagoa, com vista panorâmica para a Lagoa da Conceição. Inclui equipamentos e instrutor.",
+    "preco": 199.99,
+    "imagem": "/ilha1.png",
+    "duracao": "4 horas",
+    "dificuldade": "Moderada"
+  },
+  {
+    "nome": "Mergulho em Naufrágio",
+    "descricao": "Explore os mistérios subaquáticos de Florianópolis mergulhando em navios naufragados. Curso básico e equipamentos inclusos.",
+    "preco": 349.99,
+    "imagem": "/ilha2.png",
+    "duracao": "6 horas",
+    "dificuldade": "Intermediária"
+  },
+  {
+    "nome": "Trilha do Lagoinha do Leste",
+    "descricao": "Trekking guiado até uma das praias mais preservadas da ilha, com paradas para banho e fotografia. Lanche incluso.",
+    "preco": 129.99,
+    "imagem": "/ilha3.png",
+    "duracao": "8 horas",
+    "dificuldade": "Desafiadora"
+  },
+  {
+    "nome": "Kitesurf na Joaquina",
+    "descricao": "Aula introdutória de kitesurf na famosa praia da Joaquina. Equipamentos e instrutor certificado inclusos.",
+    "preco": 299.99,
+    "imagem": "/ilha4.png",
+    "duracao": "3 horas",
+    "dificuldade": "Iniciante"
+  }
+]
