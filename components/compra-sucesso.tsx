@@ -35,7 +35,7 @@ export function CompraSucesso() {
     <div className="flex flex-col items-center justify-center gap-6 p-6 md:p-8">
       <div className="flex flex-col items-center gap-2">
         <img
-          src="/capystore.png"
+          src="/ilha-capa.png"
           alt="Square image"
           width={100}
           height={100}
@@ -56,9 +56,9 @@ export function CompraSucesso() {
               <ul className="grid gap-3">
                 <li className="flex items-center justify-between">
                   <span className="text-muted-foreground">
-                  Meditacao da Capivara x <span>1</span>
+                  Rapel na Costa da Lagoa x <span>1</span>
                   </span>
-                  <span>$99.00</span>
+                  <span>$199.99</span>
                 </li>
               </ul>
             </div>
@@ -66,11 +66,7 @@ export function CompraSucesso() {
             <div>
               <div className="flex items-center justify-between">
                 <span className="text-muted-foreground">Subtotal</span>
-                <span>$99.00</span>
-              </div>
-              <div className="flex items-center justify-between">
-                <span className="text-muted-foreground">Frete</span>
-                <span>$5.00</span>
+                <span>$199.99</span>
               </div>
               <div className="flex items-center justify-between">
                 <span className="text-muted-foreground">Impostos</span>
@@ -78,7 +74,7 @@ export function CompraSucesso() {
               </div>
               <div className="flex items-center justify-between font-semibold">
                 <span className="text-muted-foreground">Total</span>
-                <span>$105.00</span>
+                <span>$200.00</span>
               </div>
             </div>
             <Separator />
@@ -93,9 +89,9 @@ export function CompraSucesso() {
             <div>
               <div className="font-semibold">Endereço de Entrega</div>
               <address className="grid gap-0.5 not-italic text-muted-foreground">
-                <span>UniAcademia - DevOpsDaysJuizdeFora</span>
-                <span>Rua Halfeld, 1179 Centro</span>
-                <span>Juiz de Fora, MG</span>
+                <span>DevOpsDays Florianopolis</span>
+                <span>Canasvieiras</span>
+                <span>Floripa</span>
               </address>
             </div>
           </div>

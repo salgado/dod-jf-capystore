@@ -44,13 +44,13 @@ export function ProductCapyvaraDetail() {
             <div className="flex flex-col justify-center space-y-4">
               <div className="space-y-2">
                 <h1 className="text-4xl font-bold tracking-tighter text-primary-foreground sm:text-5xl xl:text-6xl/none">
-                Meditacao da Capivara
+                Rapel na Costa da Lagoa
                 </h1>
                 <p className="max-w-[600px] text-secondary-foreground md:text-xl">
-                Aprenda os ensinamentos milenar da meditacao capivara
+                Aventure-se em um rapel emocionante nas encostas da Costa da Lagoa, com vista panorâmica para a Lagoa da Conceição. Inclui equipamentos e instrutor.
                 </p>
                 <p className="max-w-[600px] text-secondary-foreground md:text-xl">
-                $79.99
+                $199.99
                 </p>
                 
               </div>
@@ -65,7 +65,7 @@ export function ProductCapyvaraDetail() {
 
             </div>
             <img
-              src="/cap6.png"
+              src="/ilha1.png"
               width="550"
               height="310"
               alt="Hero"
