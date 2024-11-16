@@ -34,7 +34,7 @@ export function ProductCapyvaraDetail() {
     <div>
       <header className="flex items-center justify-between bg-primary px-4 py-3 md:px-6">
         <div className="flex items-center space-x-4">
-          <img src="/capystore.png" width={40} height={40} alt="Logo" className="rounded-full" />
+          <img src="/ilha-capa.png" width={40} height={40} alt="Logo" className="rounded-full" />
           <h1 className="text-lg font-bold text-primary-foreground">DevOps Tour Floripa</h1>
         </div>
       </header>
@@ -50,7 +50,7 @@ export function ProductCapyvaraDetail() {
                 Aventure-se em um rapel emocionante nas encostas da Costa da Lagoa, com vista panorâmica para a Lagoa da Conceição. Inclui equipamentos e instrutor.
                 </p>
                 <p className="max-w-[600px] text-secondary-foreground md:text-xl">
-                $199.99
+                $1990.99
                 </p>
                 
               </div>
