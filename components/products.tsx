@@ -47,7 +47,7 @@ export function Products() {
 
   return (
     <div>
-      <h1 className="text-2xl font-bold mb-6 mx-[30px] md:mx-6">Produtos Capivara Store</h1>
+      <h1 className="text-2xl font-bold mb-6 mx-[30px] md:mx-6">Produtos DevOps Tour Floripa</h1>
       <section className="grid grid-cols-1 gap-6 p-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 md:p-6">
         {products.map(product => (
           <div key={product.nome} className="relative overflow-hidden rounded-lg group">

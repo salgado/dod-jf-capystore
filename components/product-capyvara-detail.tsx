@@ -35,7 +35,7 @@ export function ProductCapyvaraDetail() {
       <header className="flex items-center justify-between bg-primary px-4 py-3 md:px-6">
         <div className="flex items-center space-x-4">
           <img src="/capystore.png" width={40} height={40} alt="Logo" className="rounded-full" />
-          <h1 className="text-lg font-bold text-primary-foreground">Capivara Store</h1>
+          <h1 className="text-lg font-bold text-primary-foreground">DevOps Tour Floripa</h1>
         </div>
       </header>
       <section className="w-full py-12 md:py-24 lg:py-32 xl:py-48 bg-gradient-to-r from-primary to-secondary">
